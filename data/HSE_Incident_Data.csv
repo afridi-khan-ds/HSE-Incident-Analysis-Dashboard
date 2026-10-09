@@ -1,0 +1,51 @@
+Incident_ID,Date,Department,Location,Event_Type,Severity,Root_Cause,Lost_Workdays,Action_Status
+HSE001,01-01-2025,Production,Plant Area,Near Miss,Low,Unsafe Act,0,Closed
+HSE002,05-01-2025,Maintenance,Workshop,First Aid,Low,PPE Non-Compliance,0,Closed
+HSE003,12-01-2025,Warehouse,Warehouse,Near Miss,Low,Poor Housekeeping,0,Closed
+HSE004,18-01-2025,Production,Plant Area,Medical Treatment,Medium,Unsafe Condition,2,Closed
+HSE005,25-01-2025,Logistics,Loading Bay,Property Damage,Medium,Unsafe Act,0,In Progress
+HSE006,02-02-2025,Maintenance,Workshop,Near Miss,Low,Equipment Failure,0,Closed
+HSE007,08-02-2025,Production,Plant Area,First Aid,Low,PPE Non-Compliance,0,Closed
+HSE008,15-02-2025,Warehouse,Warehouse,Near Miss,Low,Poor Housekeeping,0,Closed
+HSE009,21-02-2025,Logistics,Loading Bay,Medical Treatment,Medium,Unsafe Condition,1,In Progress
+HSE010,28-02-2025,Utilities,Plant Area,Near Miss,Low,Unsafe Act,0,Closed
+HSE011,04-03-2025,Production,Plant Area,Lost Time Injury,High,Unsafe Condition,7,Overdue
+HSE012,11-03-2025,Maintenance,Workshop,Near Miss,Low,Equipment Failure,0,Closed
+HSE013,19-03-2025,Warehouse,Warehouse,First Aid,Low,Poor Housekeeping,0,Closed
+HSE014,25-03-2025,Logistics,Loading Bay,Near Miss,Low,Unsafe Act,0,Closed
+HSE015,02-04-2025,Production,Plant Area,Medical Treatment,Medium,PPE Non-Compliance,2,In Progress
+HSE016,09-04-2025,Maintenance,Workshop,Near Miss,Low,Equipment Failure,0,Closed
+HSE017,16-04-2025,Warehouse,Warehouse,Near Miss,Low,Poor Housekeeping,0,Closed
+HSE018,23-04-2025,Utilities,Plant Area,First Aid,Low,Unsafe Condition,0,Closed
+HSE019,01-05-2025,Production,Plant Area,Near Miss,Low,Unsafe Act,0,Closed
+HSE020,08-05-2025,Logistics,Loading Bay,Medical Treatment,Medium,Unsafe Condition,3,In Progress
+HSE021,15-05-2025,Maintenance,Workshop,Property Damage,Medium,Equipment Failure,0,Closed
+HSE022,22-05-2025,Warehouse,Warehouse,Near Miss,Low,Poor Housekeeping,0,Closed
+HSE023,03-06-2025,Production,Plant Area,Near Miss,Low,PPE Non-Compliance,0,Closed
+HSE024,10-06-2025,Maintenance,Workshop,First Aid,Low,Unsafe Act,0,Closed
+HSE025,17-06-2025,Logistics,Loading Bay,Near Miss,Low,Unsafe Condition,0,Closed
+HSE026,24-06-2025,Utilities,Plant Area,Near Miss,Low,Equipment Failure,0,Closed
+HSE027,03-07-2025,Production,Plant Area,Lost Time Injury,High,Unsafe Act,5,Overdue
+HSE028,10-07-2025,Warehouse,Warehouse,First Aid,Low,Poor Housekeeping,0,Closed
+HSE029,18-07-2025,Maintenance,Workshop,Near Miss,Low,PPE Non-Compliance,0,Closed
+HSE030,25-07-2025,Logistics,Loading Bay,Property Damage,Medium,Unsafe Act,0,Closed
+HSE031,05-08-2025,Production,Plant Area,Medical Treatment,Medium,Unsafe Condition,2,In Progress
+HSE032,12-08-2025,Warehouse,Warehouse,Near Miss,Low,Poor Housekeeping,0,Closed
+HSE033,20-08-2025,Maintenance,Workshop,Near Miss,Low,Equipment Failure,0,Closed
+HSE034,27-08-2025,Utilities,Plant Area,First Aid,Low,PPE Non-Compliance,0,Closed
+HSE035,04-09-2025,Production,Plant Area,Near Miss,Low,Unsafe Act,0,Closed
+HSE036,11-09-2025,Logistics,Loading Bay,Medical Treatment,Medium,Unsafe Condition,1,In Progress
+HSE037,18-09-2025,Warehouse,Warehouse,Near Miss,Low,Poor Housekeeping,0,Closed
+HSE038,25-09-2025,Maintenance,Workshop,Near Miss,Low,Equipment Failure,0,Closed
+HSE039,03-10-2025,Production,Plant Area,Lost Time Injury,High,PPE Non-Compliance,10,Overdue
+HSE040,10-10-2025,Logistics,Loading Bay,Near Miss,Low,Unsafe Act,0,Closed
+HSE041,18-10-2025,Warehouse,Warehouse,First Aid,Low,Poor Housekeeping,0,Closed
+HSE042,25-10-2025,Utilities,Plant Area,Near Miss,Low,Unsafe Condition,0,Closed
+HSE043,02-11-2025,Production,Plant Area,Medical Treatment,Medium,Unsafe Condition,2,In Progress
+HSE044,09-11-2025,Maintenance,Workshop,Near Miss,Low,Equipment Failure,0,Closed
+HSE045,16-11-2025,Logistics,Loading Bay,Property Damage,Medium,Unsafe Act,0,Closed
+HSE046,23-11-2025,Warehouse,Warehouse,Near Miss,Low,Poor Housekeeping,0,Closed
+HSE047,01-12-2025,Production,Plant Area,First Aid,Low,PPE Non-Compliance,0,Closed
+HSE048,08-12-2025,Maintenance,Workshop,Near Miss,Low,Equipment Failure,0,Closed
+HSE049,15-12-2025,Logistics,Loading Bay,Medical Treatment,Medium,Unsafe Condition,2,In Progress
+HSE050,22-12-2025,Production,Plant Area,Near Miss,Low,Unsafe Act,0,Closed
